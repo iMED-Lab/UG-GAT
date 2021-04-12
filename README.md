@@ -24,12 +24,3 @@ python trainGraph.py
 ## Citing This Paper
 <span id="jump">
 If you use this code,please use the following BibTeX entry.
-```
-@article{***,
-  title={***},
-  author={***},
-  journal={***},
-  year={***}
-}
-```
-</span>
