@@ -11,7 +11,6 @@ python trainCNN.py
 ```
 ## Obtaining feature and uncertainty for graph
 After training the Bayesian, you can generate the image representations and uncertainty by running:
-BayesianCNN Training  can be done:
 ```
 python test.py
 ```
