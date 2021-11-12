@@ -1,6 +1,6 @@
 # UG-GAT
-This repository holds the Pytorch implementation of 'Uncertainty-guided Graph Attention Network for Parapneumonic Effusion Diagnosis
-Jinkui' (UG-GAT). 
+This repository holds the Pytorch implementation of **Uncertainty-guided Graph Attention Network for Parapneumonic Effusion Diagnosis**
+ (UG-GAT). 
 
 ## Introduction
 We utilize all the CT images containing uncertainty information of a patient rather than a single 2D slice, and propose a graph-based framework for UPPE and CPPE classification.
