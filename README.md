@@ -24,6 +24,7 @@ python trainGraph.py
 ## Citing This Paper
 <span id="jump">
 If you use this code,please use the following BibTeX entry.
+ 
 '''
   @article{hao2021uncertainty,
   title={Uncertainty-guided Graph Attention Network for Parapneumonic Effusion Diagnosis},
@@ -33,6 +34,6 @@ If you use this code,please use the following BibTeX entry.
   year={2021},
   publisher={Elsevier}
 }
-  '''
+'''
   </span>
   
